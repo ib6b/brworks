@@ -1,0 +1,11 @@
+Room ID,Name,Status,Ready
+1,Bedroom 1,done,true
+2,Bedroom 2,in progress,false
+3,Bedroom 3,done,true
+4,Bedroom 4,in progress,false
+5,Bedroom 5,not started,false
+6,Bedroom 6,blocked,false
+7,Bedroom 7,in progress,false
+8,Bedroom 8,blocked,false
+9,Bedroom 9,done,true
+10,Bedroom 10,not started,false
